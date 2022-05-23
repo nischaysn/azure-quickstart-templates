@@ -156,10 +156,10 @@
           "osName": "ubuntu",
           "installerBaseUrl": "http://repo.mongodb.org/apt/ubuntu",
           "installerPackages": "mongodb-org",
-          "installerVersion": "4.0.2",
+          "installerVersion": "5.0.8",
           "imagePublisher": "Canonical",
           "imageOffer": "UbuntuServer",
-          "imageSKU": "14.04.5-LTS"
+          "imageSKU": "20.04.4-LTS"
         }
     },
     "tshirtSizeTypes": {
